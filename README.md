@@ -27,7 +27,6 @@ TODO: add bblayers.conf and local.conf gist
 
 # Mile Stone(s):
 
-## Project Name:
  `Searchlight `
 
  GOALS:
