@@ -17,6 +17,7 @@ Testing PXFmini for initial setup.
 
 # How compile image file
 TODO: add bblayers.conf and local.conf gist
+
 1. clone poky:
 2. clone meta-raspberrypi layers into poky folder
 3. clone meta-oshwuav layer into poky folder
