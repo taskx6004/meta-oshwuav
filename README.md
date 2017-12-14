@@ -1,3 +1,4 @@
+# new line
 # meta-oshwuav
 buildiing Open Souce Hardware UAV software/firmware by Yocto.
 
